@@ -1,0 +1,4 @@
+﻿  Proiect2_Gauss_MiAl.cpp
+C:\Users\Пользователь\source\repos\Proiect2_Gauss_MiAl\Proiect2_Gauss_MiAl\Proiect2_Gauss_MiAl.cpp(92,20): warning C4477: 'printf' : format string '%5.2lf' requires an argument of type 'double', but variadic argument 1 has type 'double (*)[11]'
+C:\Users\Пользователь\source\repos\Proiect2_Gauss_MiAl\Proiect2_Gauss_MiAl\Proiect2_Gauss_MiAl.cpp(9,15): warning C4101: 'k': unreferenced local variable
+  Proiect2_Gauss_MiAl.vcxproj -> C:\Users\Пользователь\source\repos\Proiect2_Gauss_MiAl\Debug\Proiect2_Gauss_MiAl.exe
